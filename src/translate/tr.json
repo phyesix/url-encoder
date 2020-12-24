@@ -1,0 +1,27 @@
+{
+  "path": ".",
+  "title": "SVG için URL encodlama",
+  "quotes": "Tırnak tipi:",
+  "single": "tek",
+  "double": "çift",
+  "aboutTitle": "Hakkında",
+  "aboutText": "<p>We can use SVG in CSS via data URI, but without encoding it works only in Webkit based browsers. If encode SVG using <code>encodeURIComponent()</code> it will work everywhere.</p><p>SVG must have attribute <strong>xmlns</strong> like this: <code>xmlns='http: //www.w3.org/2000/svg'</code>. If it doesn't exist, it will be added automagically.</p><p>Encoded SVG can be used in <code>background</code>, in <code>border-image</code> or in <code>mask</code> (<a href='https://codepen.io/yoksel/full/WNrLpYW'>live demo</a>).</p>",
+  "insertSVG": "SVG Kodu",
+  "example": "Örnek",
+  "takeEncoded": "Kodlanmış",
+  "copy": "Kopyala",
+  "readyForCSS": "CSS Kullanımı",
+  "preview": "Önizleme",
+  "background": "Arkaplan",
+  "white": "beyaz",
+  "silver": "gümüş",
+  "black": "siyaj",
+  "projectOn": "Proje",
+  "twitter": "yoksel_en",
+  "langs": [
+    "<a href=\"../\">İngilizce</a>",
+    "<a href=\"./ru\">Rusça</a>"
+    "<a>Türkçe</a>"
+  ],
+  "decodeTip": "SVG yi geri decode etmek için buraya yapıştırabilirsiniz."
+}
